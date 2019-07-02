@@ -1,3 +1,5 @@
+print("Bem Vindo!!!!!")
+
 finalizar = 0
 
 while finalizar != 1:
