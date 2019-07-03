@@ -1,5 +1,5 @@
 Criar uma pasta com <git init>
-
+git clone <caminho> = clona o arquivo para sua maquina local
 git status
 git add <nome do arquivo> -m <Mensagem>
 git commit
