@@ -1,7 +1,10 @@
+Criar uma pasta com <git init>
+
 git status
 git add <nome do arquivo> -m <Mensagem>
 git commit
 git log = mostra os commits
+git log -p = mostra os commits e o que foi alterado
 git whatchanged -p = mostra os commits mais detalhados
 
 
