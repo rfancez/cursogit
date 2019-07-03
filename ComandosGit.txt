@@ -10,3 +10,7 @@ git whatchanged -p = mostra os commits mais detalhados
 
 git remote add origem https://github.com/rfancez/cursogit.git = Adiciona o um repositório remoto
 git push <nome do repositório remoto> <nome do branch>
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
