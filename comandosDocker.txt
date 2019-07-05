@@ -1,0 +1,4 @@
+service: sudo service docker start
+
+sudo docker ps = analisa todas as imagens
+sudo docker run hello-world = teste hello world
