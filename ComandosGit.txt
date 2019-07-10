@@ -1,16 +1,20 @@
 Criar uma pasta com <git init>
 git clone <caminho> = clona o arquivo para sua maquina local
 git status
-git add <nome do arquivo> -m <Mensagem>
-git commit
+git add <nome do arquivo> -m <Mensagem> = Adiciona o Arquivo no Git
+git commit = Apos Adicionar commitar
 git log = mostra os commits
 git log -p = mostra os commits e o que foi alterado
 git whatchanged -p = mostra os commits mais detalhados
 
 
 git remote add origem https://github.com/rfancez/cursogit.git = Adiciona o um repositório remoto
-git push <nome do repositório remoto> <nome do branch>
-git branch <nome da nova branch> = para criar uma nova branch
+git push <nome do repositório remoto> <nome do branch> = envia as alterações comitadas para o rempositório remoto
+git branch <nome da nova branch> = para criar uma nova branch	
 git checkout <nome da Branch> = para mudar para a branch
+
+git push -u origin design = cria a branch no repositório remoto o -u auxilia no caso
+git push -d origin design = remove a branch remota
+git fetch <remoto>= Este comando verifica todas as atualizações que foram realizadas no repositório de atalho <remoto>
 
 
