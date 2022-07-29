@@ -8,13 +8,15 @@ git log -p = mostra os commits e o que foi alterado
 git whatchanged -p = mostra os commits mais detalhados
 
 
-git remote add origem https://github.com/rfancez/cursogit.git = Adiciona o um repositório remoto
-git push <nome do repositório remoto> <nome do branch> = envia as alterações comitadas para o rempositório remoto
+git remote add origem https://github.com/rfancez/cursogit.git = Adiciona o um repositï¿½rio remoto
+git push <nome do repositï¿½rio remoto> <nome do branch> = envia as alteraï¿½ï¿½es comitadas para o rempositï¿½rio remoto
 git branch <nome da nova branch> = para criar uma nova branch	
 git checkout <nome da Branch> = para mudar para a branch
 
-git push -u origin design = cria a branch no repositório remoto o -u auxilia no caso
+git push -u origin design = cria a branch no repositï¿½rio remoto o -u auxilia no caso
 git push -d origin design = remove a branch remota
-git fetch <remoto>= Este comando verifica todas as atualizações que foram realizadas no repositório de atalho <remoto>
+git fetch <remoto>= Este comando verifica todas as atualizaï¿½ï¿½es que foram realizadas no repositï¿½rio de atalho <remoto>
 
+
+teste
 
